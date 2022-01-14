@@ -1,4 +1,12 @@
 # DSAI-HW1-2021
+
+### **Team Member**    
+
+| 編輯者       |    暱稱         |                      LinkedIn                                                            |
+| :-----------:|:-----------:   |:---------------------------------------------------------------------------------------: |
+|  洪志宇      | CHI-YU HONG     | [https://www.linkedin.com/in/chiyuhong/](https://www.linkedin.com/in/chiyuhong/)     
+|  施智臏      | ZHI-BIN SHIH     | [https://www.linkedin.com/in/zhibin-shih-9a0a711a9/](https://www.linkedin.com/in/zhibin-shih-9a0a711a9/)     
+
 **Data analysis :**
 
  下圖為台電提供之108至110年的「瞬時尖峰負載（萬瓩）」、「備轉容量（萬瓩）」及「備轉容量率（％）」，由圖中可以見到110年之「備轉容量（萬瓩）」相對於前兩年皆處於較平穩的趨勢，另外備轉容量率也相較過去較為低緩，吾人猜測是因為恰逢疫情及後疫情時期，故去年之資料較為特別，因此僅採用去年至今年三月的資料來做分析。
